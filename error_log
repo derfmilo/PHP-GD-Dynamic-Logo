@@ -1,0 +1,8 @@
+[21-Nov-2019 16:40:25 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 81
+[21-Nov-2019 16:40:25 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 82
+[21-Nov-2019 16:40:27 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 81
+[21-Nov-2019 16:40:27 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 82
+[21-Nov-2019 16:40:37 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 81
+[21-Nov-2019 16:40:37 UTC] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 82
+[22-Nov-2019 05:09:52 UTC] PHP Warning:  imagepalettetotruecolor() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 67
+[22-Nov-2019 05:10:07 UTC] PHP Warning:  imagepalettetotruecolor() expects parameter 1 to be resource, null given in /home/jimnioco/public_html/imagecreate/myimpage.php on line 67
